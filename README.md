@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://jimmyhoe.com/images/giphy-2.gif" height="250" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJvbjIxYzQxdWVudTlhdjNzYTZsbHI2OWE4em1wZ2dmM2VsY3lvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Bo84Z4ptN78iOlcN2/giphy.gif" height="250" />
 </p>
 
 <p align="center">
