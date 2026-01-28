@@ -51,7 +51,8 @@
 🔗 [Ссылка на проект](https://github.com/cuppsmil/users_itresume)
 </td>
 <td>
-  <img src="qt_example_small.gif" width="534px" height="320px">
+ <img width="10000px" height="10000px" alt="image" src="https://github.com/user-attachments/assets/0a0e397e-6d03-4126-8c87-2f2ca50c322f" />
+
 </td>
 </tr>
 </table>
