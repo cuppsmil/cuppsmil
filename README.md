@@ -99,7 +99,7 @@
 </details>
 </td>
 <td>
-  <img src="robotics_little.gif" width="534px" height="300px">
+<img width="100%" height="100%" alt="web-site" src="https://github.com/user-attachments/assets/aeac66ad-485d-4264-94dd-575f84ef881a"/>
 </td>
 </tr>
 </table>
