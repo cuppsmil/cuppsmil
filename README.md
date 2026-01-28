@@ -89,7 +89,7 @@
   <li>Калибровка камеры и координатных систем</li>
 </ul>
 
-🛠 Стек: Python, C++, OpenCV, YOLO, SciPy, Numpy  
+🛠 Стек: Asp .Net, C#, HTML/CSS, Razor, MVC, Linq, PostgreSQL, EntityFrameworkCore  
 🔍 Подробнее:
 <details>
 <summary>Описание проекта</summary>
