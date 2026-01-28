@@ -88,10 +88,10 @@
 
 ## 🛠 Стек технологий
 
-| Языки             | Инструменты                | Операционные системы |
-|-------------------|-----------------------------|-----------------------|
-| C, C++ (STL, RAII) | CMake, Qt, Git, Docker      | Linux (Ubuntu, Arch)  |
-| Python             | PostgreSQL, OpenCV, YOLO    |                       |
+| Языки             | Инструменты                         | Библиотеки            |
+|-------------------|-------------------------------------|-----------------------|
+| C/C++, C#, SQL     | Metabase, Excel, Git,              | Numpy, Pandas,      |
+| Python            | PostgreSQL, MySQL, Power BI         |  Matplotlib            |
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" />
   <img width="10" />
