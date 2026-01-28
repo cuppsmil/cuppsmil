@@ -92,26 +92,9 @@
 |-------------------|-------------------------------------|-----------------------|
 | C/C++, C#, SQL     | Metabase, Excel, Git,              | Numpy, Pandas,      |
 | Python            | PostgreSQL, MySQL, Power BI         |  Matplotlib            |
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" />
-  <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.worldvectorlogo.com/logos/linux.svg" height="40" />
-  <img width="10" />
-  <img src="https://www.svgrepo.com/show/354243/qt.svg" height="40" />
-  <img width="10" />
-  <img src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg" height="40" />
-  <img width="10" />
-  <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" />
-</div>
 
 ---
 
-📫 [Связаться в Telegram](https://t.me/antonk_prog)
+📫 [Связаться в Telegram](https://t.me/bratstrlstylrs)
 
 ---
