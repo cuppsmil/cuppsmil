@@ -48,7 +48,7 @@
 </ul>
 
 🛠 Стек: SQL, Metabase 
-🔗 [Ссылка на проект](https://github.com/antonk-prog/employee-manager-qt)
+🔗 [Ссылка на проект](https://github.com/cuppsmil/users_itresume)
 </td>
 <td>
   <img src="qt_example_small.gif" width="534px" height="320px">
