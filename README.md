@@ -83,7 +83,7 @@
 
 <table>
 <tr>
-<td width="80%">
+<td width="40%">
 <ul>
  <li><strong>CRUD-функционал</strong> для всех таблиц: добавление, удаление, редактирование</li>
  <li>Поиск по ФИО, фильтрация</li>
@@ -99,12 +99,12 @@
 </p>
 </details>
 </td>
-<td>
-<img width="100%" height="100%" alt="web-site" src="https://github.com/user-attachments/assets/aeac66ad-485d-4264-94dd-575f84ef881a"/>
+<td width="60%">
+  <img width="100%" height="auto" alt="Web-интерфейс системы" 
+       src="https://github.com/user-attachments/assets/aeac66ad-485d-4264-94dd-575f84ef881a">
 </td>
 </tr>
 </table>
-
 
 ---
 
