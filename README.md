@@ -91,6 +91,7 @@
 </ul>
 
 🛠 Стек: Asp .Net, C#, HTML/CSS, Razor, MVC, Linq, PostgreSQL, EntityFrameworkCore  
+ 🔗 [Ссылка на проект](https://github.com/cuppsmil/my_barbershop)
 🔍 Подробнее:
 <details>
 <summary>Описание проекта</summary>
@@ -103,7 +104,9 @@
 <td width="60%">
   <img width="100%" height="auto" alt="Web-интерфейс системы" 
        src="https://github.com/user-attachments/assets/aeac66ad-485d-4264-94dd-575f84ef881a">
+
 </td>
+
 </tr>
 </table>
 
