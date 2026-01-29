@@ -72,7 +72,7 @@
  
 </ul>
 
-🛠 Стек: SQL, Metabase 
+🛠 Стек: Excel
 🔗 [Ссылка на проект](https://github.com/cuppsmil/users_itresume)
 </td>
 <td width="60%">
