@@ -73,7 +73,7 @@
 </ul>
 
 🛠 Стек: Excel, SQL
-🔗 [Ссылка на проект](https://github.com/cuppsmil/users_itresume)
+🔗 [Ссылка на проект](https://github.com/cuppsmil/abc-xyz-pharmacy)
 </td>
 <td width="60%">
   <img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/749cfcef-b024-4998-835c-297e8b2febf7" />
