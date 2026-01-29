@@ -40,7 +40,7 @@
 
 <table>
 <tr>
-<td width="80%">
+<td width="40%">
 <ul>
   <li><strong>CRUD-функционал</strong> для сотрудников: добавление, увольнение, редактирование</li>
   <li>Поиск по ФИО и должности, сериализация через QDataStream</li>
@@ -50,13 +50,12 @@
 🛠 Стек: SQL, Metabase 
 🔗 [Ссылка на проект](https://github.com/cuppsmil/users_itresume)
 </td>
-<td>
- <img width="10000px" height="10000px" alt="image" src="https://github.com/user-attachments/assets/0a0e397e-6d03-4126-8c87-2f2ca50c322f" />
-
+<td width="60%">
+  <img width="100%" height="auto" alt="Детализированная визуализация" 
+       src="https://github.com/user-attachments/assets/0a0e397e-6d03-4126-8c87-2f2ca50c322f">
 </td>
 </tr>
 </table>
-
 ---
 ### 📊 ABC-XYZ-анализ аптечной сети
 
