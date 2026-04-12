@@ -36,6 +36,55 @@
 
 ## 🧩 Проекты
 
+### 🚀 План повышения retention платформы IT Resume — IT Resume Platform (Product Analytics Case)
+
+<table>
+<tr>
+<td width="40%">
+<ul>
+  <li><strong>Анализ retention</strong>: N-day, Rolling retention, churn rate</li>
+  <li><strong>Выявление ключевых проблем</strong>: высокий ранний отток, низкий stickiness, высокий TTFV (~2.7 дня)</li>
+  <li><strong>Формирование продуктовых гипотез</strong> для роста удержания</li>
+  <li><strong>Разработка решений</strong>: онбординг, триггеры возврата, streak-механики, цели</li>
+</ul>
+
+🛠 Стек: SQL, PostgreSQL, Metabase, Product Analytics
+🔗 [Ссылка на проект](https://github.com/cuppsmil/retention-improvement-it-resume)
+
+🔍 Подробнее:
+
+<details>
+<summary>Описание проекта</summary>
+<p>
+В рамках проекта был проведён комплексный анализ поведения пользователей обучающей платформы IT Resume.
+
+Были рассчитаны ключевые продуктовые метрики (DAU, MAU, Retention, Churn, TTFV), построены когортные отчёты и выявлены точки максимального оттока.
+
+На основе анализа сформированы продуктовые гипотезы и предложены решения, направленные на:
+
+<ul>
+  <li>снижение раннего churn (0–3 день)</li>
+  <li>формирование привычки использования</li>
+  <li>увеличение долгосрочного retention</li>
+</ul>
+
+Проект оформлен как полноценный продуктовый кейс: от анализа данных до бизнес-решений.
+
+</p>
+</details>
+</td>
+
+<td width="60%">
+  <img width="100%" height="auto" alt="Retention Dashboard" 
+       src="https://github.com/user-attachments/assets/f74c7d2f-b7b7-4062-9d10-955bcb9ca5ae" />
+
+</td>
+
+</tr>
+</table>
+
+---
+
 ### 📊 Аналитика по студентам IT Resume (Дашборд на Metabase)
 
 <table>
