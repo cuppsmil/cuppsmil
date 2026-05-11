@@ -85,25 +85,25 @@
 
 ---
 
-### 📊 Аналитика по студентам IT Resume (Дашборд на Metabase)
+### ReadTrack - Учёт книг и анализ читательских привычек
 
 <table>
 <tr>
 <td width="40%">
 <ul>
-  <li><strong>Расчет DAU</strong>: Динамика активности пользователей по дням</li>
-  <li>Сводная таблица по прогрессу каждого студента</li>
-  <li>Воронка по пользователям</li>
-  <li>Различные виды графиков для наглядного и более детального анализа, выявления причин</li>
+  <li>Каталог книг: добавление, фильтрация, редактирование, удаление</li>
+  <li>Прогресс чтения: обновление страниц, процент, прогресс-бар</li>
+  <li>Аналитика: еженедельный отчёт, рекомендации по жанрам</li>
+  <li>Данные: экспорт (CSV/ZIP), импорт, автоматический бэкап SQLite</li>
  
 </ul>
 
-🛠 Стек: SQL, Metabase 
-🔗 [Ссылка на проект](https://github.com/cuppsmil/users_itresume)
+🛠  Стек: Python, SQLite, CSV
+🔗 [Ссылка на проект](https://github.com/cuppsmil/ReadTrack)
 </td>
 <td width="60%">
-  <img width="100%" height="auto" alt="Детализированная визуализация" 
-       src="https://github.com/user-attachments/assets/0a0e397e-6d03-4126-8c87-2f2ca50c322f">
+ <img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/bec022d4-5c78-453d-9842-8555c9f34bcd" />
+
 </td>
 </tr>
 </table>
