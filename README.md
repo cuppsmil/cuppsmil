@@ -164,6 +164,32 @@
 </table>
 
 ---
+### 🐍 Бизнес-кейсы от курса Simulative (Google Colab)
+
+<table>
+<tr>
+<td width="40%">
+<ul>
+ <li>Автоматизация рутинных процессов обработки данных и расчета метрик</li>
+ <li>Объединение CSV-файлов с продажами магазинов</li>
+ <li>Формирование отчета по задолженностям студентов, работа с Google Sheets</li>
+ <li>Расчет продуктовых метрик по активности пользователей</li> 
+</ul>
+
+🛠 Стек: Python, Jupyter Notebook, Google Colab, CSV, Google Sheets
+ 🔗 [Ссылка на проект](https://github.com/cuppsmil/simulative-business-cases)
+</td>
+<td width="60%">
+ 
+  <img width="100%" height="auto" alt="image" src="https://github.com/user-attachments/assets/8d994837-3831-40ce-9a97-422422d22e98" />
+
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🛠 Стек технологий
 
